@@ -416,7 +416,7 @@ export default function Home() {
 
             {/* Slider Dots */}
             <div className="flex justify-center items-center gap-2 pt-4">
-                <span className="w-8 h-1 bg-cyan-400 rounded-full"></span>
+                <span className="w-8 h-1 bg-cyan-400 rounded-full  "></span>
                 <span className="w-8 h-1 bg-gray-800 rounded-full"></span>
                 <span className="w-8 h-1 bg-gray-800 rounded-full"></span>
             </div>
